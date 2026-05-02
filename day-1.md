@@ -1,6 +1,7 @@
 <h1>#Daily learning</h1>
 <h2>##Morning planning</h2>
-<h2>##Review</h2>
+<h1> <img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right"><h2>
+##Review</h2>
 <h2>Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
 ```bash
